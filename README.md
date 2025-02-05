@@ -24,7 +24,7 @@ This repository contains:
   cd design-simulation-group
   ```
 
-- Follow the Learning Path in the README.
+- Follow the Learning Path in the Learning Path.
 
 - Complete assigned tasks and submit pull requests.
 
