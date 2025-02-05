@@ -4,10 +4,11 @@ Welcome to the **Design & Simulation Working Group** of **BrainSwarm**! This rep
 
 ## 📌 About This Repository
 This repository contains:
-✅ Learning Roadmap – A structured plan covering 3D modeling, URDF, ROS 2, and Gazebo.
-✅ Hands-on Tasks – Weekly tasks and assignments for interns to practice skills.
-✅ Simulation Projects – Real-world robotic simulations developed by the team.
-✅ Resources & Tutorials – Guides, references, and useful links for learning.
+
+- [x] ✅ Learning Roadmap – A structured plan covering 3D modeling, URDF, ROS 2, and Gazebo.
+- [x] ✅ Hands-on Tasks – Weekly tasks and assignments for interns to practice skills.
+- [x] ✅ Simulation Projects – Real-world robotic simulations developed by the team.
+- [x] ✅ Resources & Tutorials – Guides, references, and useful links for learning.
 
 ## 🎯 Objectives
 1. Model robotic systems in SOLIDWORKS and export them to URDF.
