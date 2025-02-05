@@ -21,11 +21,11 @@ This repository contains:
 - Clone the repository:
 
   ```bash
-  git clone https://github.com/Brainswarm/design-simulation-group.git
-  cd design-simulation-group
+  git clone https://github.com/munn33b/design-and-simulation-working-group.git
+  cd design-and-simulation-working-group
   ```
 
-- Follow the Learning Path in the Learning Path.
+- Follow the Guides in the Learning Path.
 
 - Complete assigned tasks and submit pull requests.
 
