@@ -12,8 +12,16 @@ Your task is to **program a robot to navigate through a maze** using a block-bas
 ## 📌 Instructions  
 1. **Set Up the Maze Environment**  
    - Open the block coding platform (**e.g., Scratch, Blockly, or any simulator used in this internship**).  
-   - Load the pre-defined **maze world** (provided in the repository or create your own).  
+   - Load the pre-defined **maze world** (provided in the repository or create your own). 
 
+   ```bash
+   sudo apt install ros-humble-turtlebot3
+   ```
+   
+   ```bash
+   sudo apt install ros-humble-turtlebot3-gazebo ros-humble-turtlebot3-simulations
+   ```
+   
 2. **Program the Robot**  
    - Use block-based programming to make the robot move forward, turn left, and turn right.  
    - Develop a sequence that allows the robot to navigate through the maze successfully.  
