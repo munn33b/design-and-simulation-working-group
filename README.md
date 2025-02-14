@@ -36,6 +36,7 @@ Each intern will work on specific tasks and projects, contribute through pull re
 
 ## Directory Structure
 
+```
 ├── assets                          # Images and media resources for documentation
 │   ├── git_workflow.png
 │   ├── joint_types_urdf.png
@@ -115,3 +116,5 @@ Each intern will work on specific tasks and projects, contribute through pull re
 │       │   └── README.md
 │       └── Task_3
 │           └── README.md
+```
+
