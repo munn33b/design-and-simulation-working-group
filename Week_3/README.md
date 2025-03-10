@@ -4,6 +4,8 @@
 
 This week, our goal is to integrate an **OpenManipulator robotic arm** with the **TurtleBot Waffle Pi** to create a mobile manipulator. The interns will work collaboratively following a structured Git workflow.
 
+![](../assets/mobile_manipulator.png)
+
 The Resources for Week 3 are in the Supporting Material Directory. Check all Assembly files and Helping Material from there.
 
 ### **Git Workflow:**
@@ -15,6 +17,8 @@ The Resources for Week 3 are in the Supporting Material Directory. Check all Ass
 5. Keep your fork **synced** with the main repository after each merge.
 
 ------
+
+![](../assets/assembly_openmanipulator_wafflePi.png)
 
 ## **Tasks**
 
